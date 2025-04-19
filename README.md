@@ -34,7 +34,7 @@
 5. [Sublime](https://github.com/jonypeixoto/Dark-Cyber-Sublime)
 6. [iTerm 2](https://github.com/jonypeixoto/Dark-Cyber-iTerm)
 7. [Warp](https://github.com/jonypeixoto/Dark-Cyber-Warp)
-8. [MySQL Workbench](https://github.com/scottgriv/Dark-Cyber-MySQL-Workbench)
+8. [MySQL Workbench](https://github.com/jonypeixoto/Dark-Cyber-MySQL-Workbench)
 9. [BBEdit](https://github.com/jonypeixoto/Dark-Cyber-BBEdit)
 10. [Terminal.app](https://github.com/jonypeixoto/Dark-Cyber-Terminal-App)
 11. [Windows Terminal](https://github.com/jonypeixoto/Dark-Cyber-Windows-Terminal)
@@ -125,13 +125,13 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 
 ## Team
 
-**Dark Castle** is a project created by [Scott Griv](https://github.com/scottgriv/) with the help of [Anya E.](https://github.com/anyaenko/).
+**Dark Cyber** is a project created by [Jony Peixoto](https://github.com/jonypeixoto/).
 
 - Each theme has its maintainer listed in the Team section of its `README`.
 
-| [![Scott Griv](https://github.com/scottgriv.png?size=100)](https://github.com/scottgriv) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
+| [![Jony Peixoto](https://github.com/scottgriv.png?size=100)](https://github.com/jonypeixoto) | [![Anya E.](https://github.com/anyaenko.png?size=100)](https://github.com/anyaenko) |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Scott Griv](https://github.com/scottgriv)                                               | [Anya E.](https://github.com/anyaenko)      
+| [Jony Peixoto](https://github.com/jonypeixoto)                                               | [Anya E.](https://github.com/anyaenko)      
 
 > [!NOTE]
 > In the future, if the project grows, we may move the theme repos to its own organization and give contributors the rights to maintain their submissions.
