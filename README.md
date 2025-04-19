@@ -18,7 +18,7 @@
 
 <h1 align="center">🏰 Dark Castle Theme 🌲</h1>
 
-**Dark Castle** is a vibrantly elegant dark theme available for multiple platforms. Inspired by the timeless beauty and mystery of medieval castles, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
+**Dark Cyber** is a vibrantly elegant dark theme available for multiple platforms. Inspired by the cyberpunk culture beauty and mystery of alines, this theme combines rich, deep colors with a clean and modern design. It's perfect for developers who prefer a dark environment that reduces eye strain and enhances code readability.
 
 ![Screenshot](./docs/images/screenshot.png)
 
@@ -27,29 +27,29 @@
 
 **Platforms**:
 
-1. [Visual Studio Code](https://github.com/scottgriv/Dark-Castle-VSCode)
-2. [Notepad++](https://github.com/scottgriv/Dark-Castle-Notepad-Plus-Plus)
-3. [Xcode](https://github.com/scottgriv/Dark-Castle-Xcode)
-4. [Obsidian](https://github.com/scottgriv/Dark-Castle-Obsidian)
-5. [Sublime](https://github.com/scottgriv/Dark-Castle-Sublime)
-6. [iTerm 2](https://github.com/scottgriv/Dark-Castle-iTerm)
-7. [Warp](https://github.com/scottgriv/Dark-Castle-Warp)
-8. [MySQL Workbench](https://github.com/scottgriv/Dark-Castle-MySQL-Workbench)
-9. [BBEdit](https://github.com/scottgriv/Dark-Castle-BBEdit)
-10. [Terminal.app](https://github.com/scottgriv/Dark-Castle-Terminal-App)
-11. [Windows Terminal](https://github.com/scottgriv/Dark-Castle-Windows-Terminal)
-12. [Telegram (iOS)](https://github.com/scottgriv/Dark-Castle-Telegram-iOS)
-13. [Calibre](https://github.com/scottgriv/Dark-Castle-Calibre)
-14. [SwiftUI](https://github.com/scottgriv/Dark-Castle-SwiftUI)
-15. [Sketch](https://github.com/scottgriv/Dark-Castle-Sketch)
-16. [Figma](https://github.com/scottgriv/Dark-Castle-Figma)
-17. [Wallpaper](https://github.com/scottgriv/Dark-Castle-Wallpaper)
+1. [Visual Studio Code](https://github.com/jonypeixoto/Dark-Cyber-VSCode)
+2. [Notepad++](https://github.com/jonypeixoto/Dark-Cyber-Notepad-Plus-Plus)
+3. [Xcode](https://github.com/jonypeixoto/Dark-Cyber-Xcode)
+4. [Obsidian](https://github.com/jonypeixoto/Dark-Cyber-Obsidian)
+5. [Sublime](https://github.com/jonypeixoto/Dark-Cyber-Sublime)
+6. [iTerm 2](https://github.com/jonypeixoto/Dark-Cyber-iTerm)
+7. [Warp](https://github.com/jonypeixoto/Dark-Cyber-Warp)
+8. [MySQL Workbench](https://github.com/scottgriv/Dark-Cyber-MySQL-Workbench)
+9. [BBEdit](https://github.com/jonypeixoto/Dark-Cyber-BBEdit)
+10. [Terminal.app](https://github.com/jonypeixoto/Dark-Cyber-Terminal-App)
+11. [Windows Terminal](https://github.com/jonypeixoto/Dark-Cyber-Windows-Terminal)
+12. [Telegram (iOS)](https://github.com/jonypeixoto/Dark-Cyber-Telegram-iOS)
+13. [Calibre](https://github.com/jonypeixoto/Dark-Cyber-Calibre)
+14. [SwiftUI](https://github.com/jonypeixoto/Dark-Cyber-SwiftUI)
+15. [Sketch](https://github.com/jonypeixoto/Dark-Cyber-Sketch)
+16. [Figma](https://github.com/jonypeixoto/Dark-Cyber-Figma)
+17. [Wallpaper](https://github.com/jonypeixoto/Dark-Cyber-Wallpaper)
 
 **Other**:
 
-1. [Dark Castle Main (This Repository)](https://github.com/scottgriv/Dark-Castle-Theme)
-2. [Dark Castle Template](https://github.com/scottgriv/Dark-Castle-Template)
-3. [Dark Castle Website](https://github.com/scottgriv/Dark-Castle-Website)
+1. [Dark Cyber Main (This Repository)](https://github.com/jonypeixoto/Dark-Cyber-Theme)
+2. [Dark Cyber Template](https://github.com/jonypeixoto/Dark-Cyber-Template)
+3. [Dark Cyber Website](https://github.com/jonypeixoto/Dark-Cyber-Website)
 
 ---
 
@@ -77,7 +77,7 @@ Whether you're coding late into the night or simply prefer a dark interface, **D
 
 ## Background Story
 
-Back in 2013, I ([Scott Griv](https://github.com/scottgriv)) began to grow tired of the simple dark color themes provided out of the box with my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) or [Text Editor](https://en.wikipedia.org/wiki/Text_editor) at the time. I decided to take a crack at building my own theme. The first platform I built it on was [Text Wrangler](https://www.barebones.com/products/textwrangler/), now migrated to [BBEdit](https://www.barebones.com/products/bbedit/index.html), and that original theme can be found [here](https://github.com/scottgriv/Dark-Castle-BBEdit).
+Back in 2013, I ([Scott Griv](https://github.com/jonypeixoto)) began to grow tired of the simple dark color themes provided out of the box with my [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) or [Text Editor](https://en.wikipedia.org/wiki/Text_editor) at the time. I decided to take a crack at building my own theme. The first platform I built it on was [Text Wrangler](https://www.barebones.com/products/textwrangler/), now migrated to [BBEdit](https://www.barebones.com/products/bbedit/index.html), and that original theme can be found [here](https://github.com/scottgriv/Dark-Castle-BBEdit).
 
 I was inspired to make this theme by a number of things, including video games like [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress), [Minecraft](https://en.wikipedia.org/wiki/Minecraft), and [Warcraft 3](https://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos). Books and movies such as [The Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings), [The Hobbit](https://en.wikipedia.org/wiki/The_Hobbit), [Vikings](<https://en.wikipedia.org/wiki/Vikings_(TV_series)>), and [Game of Thrones](https://en.wikipedia.org/wiki/Game_of_Thrones), also influenced its design. Additionally, historical events and archaeological discoveries played a significant part in shaping the theme. In particular, the rich history and majestic architecture of Scottish castles like [Edinburgh Castle](https://en.wikipedia.org/wiki/Edinburgh_Castle) fueled my imagination and contributed to the overall aesthetic of the theme.
 
@@ -168,7 +168,7 @@ This project is released under the terms of the **MIT License**, which permits u
 ---
 
 <div align="center">
-    <a href="https://github.com/scottgriv/Dark-Castle-Theme" target="_blank">
+    <a href="https://github.com/jonypeixoto/Dark-Cyber-Theme" target="_blank">
         <img src="./docs/images/icon-rounded.png" width="100" height="100"/>
     </a>
 </div>
