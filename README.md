@@ -147,8 +147,8 @@ Hopefully! But, we'll need your help to accomplish that. Since you're already us
 If you would like to contribute to an existing platform theme or create a new **Dark Castle** theme for a missing platform:
 
 - Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in this repository for more details.
-- Consider joining our [GitHub Discussions](https://github.com/scottgriv/Dark-Castle-Theme/discussions).
-- Check out our [GitHub Project](https://github.com/users/scottgriv/projects/14) to get a good understanding of where we're currently at with the overall project.
+- Consider joining our [GitHub Discussions](https://github.com/jonypeixoto/Dark-Castle-Theme/discussions).
+- Check out our [GitHub Project](https://github.com/users/jonypeixoto/projects/14) to get a good understanding of where we're currently at with the overall project.
 
 ## Changelog
 
