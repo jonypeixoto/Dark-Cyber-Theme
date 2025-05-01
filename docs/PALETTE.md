@@ -1,4 +1,4 @@
-# Dark Castle Color Palette
+# Dark Cyber Color Palette
 
 Below is our full color palette, along with other palettes used for specific purposes. All palettes conform to the colors used in the full palette.
 
