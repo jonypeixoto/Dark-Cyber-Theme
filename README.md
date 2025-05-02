@@ -1,7 +1,7 @@
 <!-- Begin README -->
 
 <div align="center">
-    <a href="https://darkcastle.netlify.app" target="_blank">
+    <a href="https://darkcyber.netlify.app" target="_blank">
         <img src="./docs/images/banner_large.png" /> <!-- Add a specific width/height for your icon here, ex. width="150" height="150"-->
     </a>
 </div>
@@ -73,7 +73,7 @@
 - **Elegant UI Elements:** Thoughtfully designed UI components that blend seamlessly with the overall aesthetic.
 - **Enhanced Visibility:** Improved visibility for selected text, active line highlighting, and matching brackets.
 
-Whether you're coding late into the night or simply prefer a dark interface, **Dark Castle** offers a visually appealing and comfortable experience.
+Whether you're coding late into the night or simply prefer a dark interface, **Dark Cyber** offers a visually appealing and comfortable experience.
 
 ## Background Story
 
@@ -144,10 +144,10 @@ Hopefully! But, we'll need your help to accomplish that. Since you're already us
 
 > "How do I submit a new theme?"
 
-If you would like to contribute to an existing platform theme or create a new **Dark Castle** theme for a missing platform:
+If you would like to contribute to an existing platform theme or create a new **Dark Cyber** theme for a missing platform:
 
 - Please reference the [Contributing Guidelines](.github/CONTRIBUTING.md) file in this repository for more details.
-- Consider joining our [GitHub Discussions](https://github.com/jonypeixoto/Dark-Castle-Theme/discussions).
+- Consider joining our [GitHub Discussions](https://github.com/jonypeixoto/Dark-Cyber-Theme/discussions).
 - Check out our [GitHub Project](https://github.com/users/jonypeixoto/projects/14) to get a good understanding of where we're currently at with the overall project.
 
 ## Changelog
