@@ -129,9 +129,9 @@ These are the core colors used for backgrounds, accents, syntax, etc.
 
 - Each theme has its maintainer listed in the Team section of its `README`.
 
-| [![Jony Peixoto](https://github.com/jonypeixoto/jonypeixoto/blob/main/assets/jony.png?size=50)](https://github.com/jonypeixoto) |  |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| [Jony Peixoto](https://github.com/jonypeixoto)   
+| [![Jony Peixoto](https://github.com/jonypeixoto.png?size=100)](https://github.com/jonypeixoto) |
+| ---------------------------------------------------------------------------------------- |
+| [Jony Peixoto](https://github.com/jonypeixoto)                                               |                                           | 
 
 > [!NOTE]
 > In the future, if the project grows, we may move the theme repos to its own organization and give contributors the rights to maintain their submissions.
