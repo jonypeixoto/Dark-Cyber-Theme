@@ -1,3 +1,6 @@
 [submodule "themes/notepad-plus-plus"]
 	path = themes/notepad-plus-plus
 	url = https://github.com/jonypeixoto/Dark-Cyber-Notepad-Plus-Plus.git
+[submodule "themes/figma"]
+	path = themes/figma
+	url = https://github.com/jonypeixoto/Dark-Cyber-Figma.git
