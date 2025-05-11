@@ -43,3 +43,6 @@
 [submodule "themes/warp"]
 	path = themes/warp
 	url = https://github.com/jonypeixoto/Dark-Cyber-Warp.git
+[submodule "themes/sketch"]
+	path = themes/sketch
+	url = https://github.com/jonypeixoto/Dark-Cyber-Sketch.git
