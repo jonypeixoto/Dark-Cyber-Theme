@@ -13,3 +13,6 @@
 [submodule "themes/swiftui"]
 	path = themes/swiftui
 	url = https://github.com/jonypeixoto/Dark-Cyber-SwiftUI.git
+[submodule "themes/bbedit"]
+	path = themes/bbedit
+	url = https://github.com/jonypeixoto/Dark-Cyber-BBEdit.git
