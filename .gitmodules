@@ -22,3 +22,6 @@
 [submodule "themes/vscode"]
 	path = themes/vscode
 	url = https://github.com/jonypeixoto/Dark-Cyber-VSCode.git
+[submodule "themes/telegram-ios"]
+	path = themes/telegram-ios
+	url = https://github.com/jonypeixoto/Dark-Cyber-Telegram-iOS.git
