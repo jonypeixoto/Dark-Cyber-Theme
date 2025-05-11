@@ -52,3 +52,6 @@
 [submodule "themes/xcode"]
 	path = themes/xcode
 	url = https://github.com/jonypeixoto/Dark-Cyber-Xcode.git
+[submodule "themes/iterm"]
+	path = themes/iterm
+	url = https://github.com/jonypeixoto/Dark-Cyber-iTerm.git
