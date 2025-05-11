@@ -31,3 +31,6 @@
 [submodule "themes/obsidian"]
 	path = themes/obsidian
 	url = https://github.com/jonypeixoto/Dark-Cyber-Obsidian.git
+[submodule "themes/calibre"]
+	path = themes/calibre
+	url = https://github.com/jonypeixoto/Dark-Cyber-Calibre.git
