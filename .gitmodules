@@ -34,3 +34,6 @@
 [submodule "themes/calibre"]
 	path = themes/calibre
 	url = https://github.com/jonypeixoto/Dark-Cyber-Calibre.git
+[submodule "themes/template"]
+	path = themes/template
+	url = https://github.com/jonypeixoto/Dark-Cyber-Template.git
