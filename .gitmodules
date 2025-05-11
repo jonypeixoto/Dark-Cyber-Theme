@@ -1,0 +1,3 @@
+[submodule "themes/notepad-plus-plus"]
+	path = themes/notepad-plus-plus
+	url = https://github.com/jonypeixoto/Dark-Cyber-Notepad-Plus-Plus.git
