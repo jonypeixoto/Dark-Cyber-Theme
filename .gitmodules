@@ -19,3 +19,6 @@
 [submodule "themes/mysql-workbench"]
 	path = themes/mysql-workbench
 	url = https://github.com/jonypeixoto/Dark-Cyber-MySQL-WOrkbench.git
+[submodule "themes/vscode"]
+	path = themes/vscode
+	url = https://github.com/jonypeixoto/Dark-Cyber-VSCode.git
